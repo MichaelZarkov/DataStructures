@@ -8,7 +8,7 @@
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
-namespace UnitTests
+namespace DynArrTests
 {
 	TEST_CLASS(DynamicArrayTests)
 	{
