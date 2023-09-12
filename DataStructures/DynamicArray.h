@@ -2,7 +2,6 @@
 #pragma once
 
 #include <algorithm>
-#include <cstring>
 #include <exception>
 #include <stdexcept>
 #include <utility>
